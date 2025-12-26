@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minimal-streamlit"
+version = "0.1.0"
+description = "A minimal Streamlit web application for books and reviews"
+authors = [{name = "Joabe Granville"}]
+license = "MIT"
+dependencies = [
+    "streamlit",
+    "pandas",
+    "plotly"
+]
+requires-python = ">=3.8"

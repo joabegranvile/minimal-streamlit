@@ -72,4 +72,4 @@ Feel free to fork the repository and submit pull requests for improvements or ad
 
 ## License
 
-This project is open source. Please refer to the repository for license details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
